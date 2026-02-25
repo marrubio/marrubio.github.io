@@ -27,6 +27,11 @@ body {
   margin: 0 0 0.5rem;
   font-size: clamp(2.5rem, 4vw, 3.5rem);
 }
+.hero h2 {
+  color: #ffffff;
+  margin: 0 0 0.5rem;
+  font-size: clamp(2.25rem, 3.5vw, 3rem);
+}
 .hero p {
   max-width: 640px;
   line-height: 1.7;
@@ -68,7 +73,7 @@ body {
 </style>
 
 <div class="hero">
-  <div class="section-card" style="background:none; box-shadow:none; padding:0;">
+  <div class="section-card" style="background:none; box-shadow:none; padding:2rem;">
     <p style="text-transform: uppercase; letter-spacing: 0.6em; font-size: 0.8rem; color: rgba(255,255,255,0.9);">
       Solution Architect · Sopra Steria Valencia</p>
     <h2>I design modern cloud-native systems with intent and clarity.</h2>
