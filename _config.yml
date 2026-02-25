@@ -3,11 +3,11 @@ title: marrubio homepage
 description: Bookmark this to keep an eye on my project updates!
 # Main navigation links shown in the site header
 nav:
-	- title: Home
-		url: /
-	- title: About
-		url: /about/
-	- title: Projects
-		url: /projects/
-	- title: Contact
-		url: /contact/
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Projects
+    url: /projects/
+  - title: Contact
+    url: /contact/
