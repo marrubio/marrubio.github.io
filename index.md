@@ -71,7 +71,7 @@ body {
   <div class="section-card" style="background:none; box-shadow:none; padding:0;">
     <p style="text-transform: uppercase; letter-spacing: 0.6em; font-size: 0.8rem; color: rgba(255,255,255,0.9);">
       Solution Architect · Sopra Steria Valencia</p>
-    <h1>I design modern cloud-native systems with intent and clarity.</h1>
+    <h2>I design modern cloud-native systems with intent and clarity.</h2>
     <p>This portfolio highlights resilient architectures, infrastructure craftsmanship, and DevOps practices that keep fast-moving teams in sync. Navigate via the menu or bold call-to-actions.</p>
     <a class="btn-primary" href="/projects/">View featured projects</a>
   </div>
@@ -98,28 +98,6 @@ body {
   </div>
 </section>
 
-<section class="projects-preview">
-  <div class="section-card">
-    <h2>Recent projects</h2>
-    <div class="grid">
-      <article>
-        <h3>Hybrid learning platform</h3>
-        <p>An adaptive LMS for creative communities with micro-interactions and personalized onboarding experiences.</p>
-        <a href="/projects/">Read more</a>
-      </article>
-      <article>
-        <h3>Immersive portfolio</h3>
-        <p>A Three.js showcase with magazine-style sections and sensor-driven scrolling.</p>
-        <a href="/projects/">View code</a>
-      </article>
-      <article>
-        <h3>Collaborative design kit</h3>
-        <p>Reusable Figma + Storybook components documented for multidisciplinary squads.</p>
-        <a href="/projects/">Explore resources</a>
-      </article>
-    </div>
-  </div>
-</section>
 
 <section>
   <div class="section-card">
