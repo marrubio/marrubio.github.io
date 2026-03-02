@@ -99,6 +99,11 @@ body {
         <h3>DevOps enablement</h3>
         <p>Automated pipelines, rehearsal environments, and observability practices that empower delivery teams.</p>
       </div>
+      <div>
+        <h3>IA and Agents</h3>
+        <p>I prototype intelligent agents that combine language models, task automation, and trust validations for use cases such as executive summaries, incident tracking, and technical guidance.
+        Prepare IA developing enviroments</p>
+      </div>
     </div>
   </div>
 </section>
