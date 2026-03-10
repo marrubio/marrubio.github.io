@@ -6,7 +6,7 @@ permalink: /about/
 
 # About me
 
-I'm Marrubio, currently shaping solution architecture at Sopra Steria Valencia. I guide teams through designing cloud-native platforms while keeping delivery human-centered with clear documentation and aligned collaboration.
+I'm Marrubio, currently shaping solution architecture at Valencia. I guide teams through designing cloud-native platforms while keeping delivery human-centered with clear documentation and aligned collaboration.
 
 ## Specializations
 
@@ -31,3 +31,4 @@ I'm Marrubio, currently shaping solution architecture at Sopra Steria Valencia. 
 ## Passions
 
 Technology is a lifelong obsession: I explore PC games for creative inspiration, recharge in nature excursions, and keep learning new cloud and automation tools.
+
